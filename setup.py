@@ -4,7 +4,7 @@ from setuptools import setup
 
 setup(
     name='tonttu.locales',
-    version='0.0',
+    version='0.1',
     description="Overrides default translations of Plone for ABITA site.",
     long_description=open("README.rst").read(),
     classifiers=[

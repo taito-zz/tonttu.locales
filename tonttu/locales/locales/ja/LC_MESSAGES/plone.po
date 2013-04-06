@@ -15,6 +15,9 @@ msgstr ""
 "Domain: plone\n"
 "X-Is-Fallback-For: ja-jp\n"
 
+msgid "Invite Friend"
+msgstr "トントゥ候補招待"
+
 msgid "Account Information"
 msgstr "アカウント"
 
@@ -55,3 +58,9 @@ msgstr "入力されたメールアドレスは登録されていません。"
 
 msgid "Image Folder"
 msgstr "画像フォルダ"
+
+#. Default: "Enter an email address. This will be your login name. We respect your privacy, and will not give the address away to any third parties or expose it anywhere."
+#: plone.app.users/plone/app/users/browser/register.py:104
+msgid "help_email_creation_for_login"
+msgstr "メールアドレスは半角でくれぐれも間違いないように入力してください。"
+
